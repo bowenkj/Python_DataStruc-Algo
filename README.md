@@ -1,4 +1,8 @@
 # Implementation of data structures and algorithms given on leetcode&lintcode in Python
 
-* leet 234. Palindrome Linked List
-* lint 589. Connecting Graph
+## Leetcode
+* (234). Palindrome Linked List
+
+## Lintcode
+* (589). Connecting Graph
+* (629). Minimum Spanning Tree
