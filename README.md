@@ -1,5 +1,5 @@
-# Implementation of data structures and algorithms given on leetcode&lintcode in Python
-If any bug is found, please email me directly: __**bz335@cornell.edu**__
+# Implementation of data structures and algorithms in Python
+If any part is obscure or any bug is found, feel free to email me directly: __**bz335@cornell.edu**__
 
 ## Leetcode
 * (200). Number of Islands **_Union Find_**
