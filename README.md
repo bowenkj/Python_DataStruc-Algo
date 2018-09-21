@@ -6,4 +6,5 @@
 ## Lintcode
 * (589). Connecting Graph
 * (590). Connecting Graph II
+* (591). Connecting Graph III
 * (629). Minimum Spanning Tree
