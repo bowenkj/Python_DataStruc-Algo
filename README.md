@@ -3,6 +3,7 @@ If any part is obscure or any bug is found, feel free to email me directly: __**
 
 ## Leetcode
 * (200). Number of Islands **_Union Find_**
+* (261). Graph Valid Tree **_Union Find_**
 * (305). Number of Islands II, **_Union Find_**
 * (234). Palindrome Linked List **_Fast Slow Pointer_**
 
