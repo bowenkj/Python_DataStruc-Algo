@@ -1,6 +1,7 @@
 # Implementation of data structures and algorithms given on leetcode&lintcode in Python
 
 ## Leetcode
+* (200). Number of Islands
 * (234). Palindrome Linked List
 
 ## Lintcode
