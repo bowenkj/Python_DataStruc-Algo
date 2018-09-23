@@ -6,6 +6,7 @@ If any part is obscure or any bug is found, feel free to email me directly: __**
 * (261). Graph Valid Tree **_Union Find_**
 * (305). Number of Islands II, **_Union Find_**
 * (234). Palindrome Linked List **_Fast Slow Pointer_**
+* (721). Accounts Merge **_Union Find, Inverted index_**
 
 ## Lintcode
 * (589). Connecting Graph **_Union Find_**
