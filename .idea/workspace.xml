@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16a3cd90-a97f-4058-9737-615509f52e13" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TwoSum/two_sum.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ConnectingGraphII/connecting_graph_ii.py" afterPath="$PROJECT_DIR$/ConnectingGraph/connecting_graph_ii.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ConnectingGraphIII/connecting_graph_iii.py" afterPath="$PROJECT_DIR$/ConnectingGraph/connecting_graph_iii.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/NumberOfIslandsII/number_of_islands_ii.py" afterPath="$PROJECT_DIR$/NumberOfIslands/number_of_islands_ii.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="Python_DataStruc-Algo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -198,9 +199,10 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NumberOfIslands" />
+      <recent name="$PROJECT_DIR$/ConnectingGraph" />
       <recent name="$PROJECT_DIR$/MinimumSpanningTree" />
       <recent name="$PROJECT_DIR$/PalindromeLinkedList" />
-      <recent name="$PROJECT_DIR$/ConnectingGraph" />
     </key>
   </component>
   <component name="RunManager" selected="Python.two_sum">
@@ -533,10 +535,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="18" y="23" width="1440" height="817" extended-state="0" />
+    <frame x="18" y="23" width="1440" height="817" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25894135" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25894135" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -693,7 +695,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ConnectingGraphII/connecting_graph_ii.py">
+    <entry file="file://$PROJECT_DIR$/ConnectingGraph/connecting_graph_ii.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
           <caret line="47" column="15" selection-start-line="47" selection-start-column="15" selection-end-line="47" selection-end-column="15" />
@@ -715,14 +717,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NumberOfIslandsII/number_of_islands_ii.py">
+    <entry file="file://$PROJECT_DIR$/NumberOfIslands/number_of_islands_ii.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="584">
           <caret line="59" column="23" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ConnectingGraphIII/connecting_graph_iii.py">
+    <entry file="file://$PROJECT_DIR$/ConnectingGraph/connecting_graph_iii.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
