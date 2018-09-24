@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16a3cd90-a97f-4058-9737-615509f52e13" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BestTimetoBuyandSellStock/best_time_to_buy_and_sell_stock.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SortCharactersByFrequency/sort_characters_by_frequency.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TrappingRainWater/trapping_rain_water.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ValidAnagram/valid_anagram.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -21,6 +23,7 @@
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$brick_wall.coverage" NAME="brick_wall Coverage Results" MODIFIED="1537821524181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BrickWall" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$two_sum.coverage" NAME="two_sum Coverage Results" MODIFIED="1537681187797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TwoSum" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$meeting_rooms.coverage" NAME="meeting_rooms Coverage Results" MODIFIED="1537768235795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MeetingRooms" />
+    <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$sort_characters_by_frequency.coverage" NAME="sort_characters_by_frequency Coverage Results" MODIFIED="1537825352002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SortCharactersByFrequency" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$daily_temperatures.coverage" NAME="daily_temperatures Coverage Results" MODIFIED="1537819768721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DailyTemperatures" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$minimum_window_substring.coverage" NAME="minimum_window_substring Coverage Results" MODIFIED="1537675196034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Minimum Window Substring" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$hamming_distance.coverage" NAME="hamming_distance Coverage Results" MODIFIED="1537678825759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HammingDistance" />
@@ -32,6 +35,7 @@
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$accounts_merge.coverage" NAME="accounts_merge Coverage Results" MODIFIED="1537665705724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Accounts Merge" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$LRU_cache.coverage" NAME="LRU_cache Coverage Results" MODIFIED="1537736530771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LRUCache" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$sparse_matrix_multiplication.coverage" NAME="sparse_matrix_multiplication Coverage Results" MODIFIED="1537809120694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SparseMatrixMultiplication" />
+    <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$trapping_rain_water.coverage" NAME="trapping_rain_water Coverage Results" MODIFIED="1537831844265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TrappingRainWater" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -57,11 +61,21 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+              <first_editor relative-caret-position="195">
+                <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trapping_rain_water.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TrappingRainWater/trapping_rain_water.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -104,6 +118,9 @@
         <option value="$PROJECT_DIR$/DailyTemperatures/daily_temperatures.py" />
         <option value="$PROJECT_DIR$/BrickWall/brick_wall.py" />
         <option value="$PROJECT_DIR$/BestTimetoBuyandSellStock/best_time_to_buy_and_sell_stock.py" />
+        <option value="$PROJECT_DIR$/ValidAnagram/valid_anagram.py" />
+        <option value="$PROJECT_DIR$/SortCharactersByFrequency/sort_characters_by_frequency.py" />
+        <option value="$PROJECT_DIR$/TrappingRainWater/trapping_rain_water.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -163,20 +180,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python_DataStruc-Algo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python_DataStruc-Algo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BestTimetoBuyandSellStock" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -196,43 +199,7 @@
       <recent name="$PROJECT_DIR$/PalindromeLinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.brick_wall">
-    <configuration default="false" name="remove_invalid_parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RemoveInvalidParentheses" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_DataStruc-Algo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RemoveInvalidParentheses/remove_invalid_parentheses.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="meeting_rooms" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MeetingRooms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_DataStruc-Algo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MeetingRooms/meeting_rooms.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.trapping_rain_water">
     <configuration default="false" name="sparse_matrix_multiplication" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,6 +250,42 @@
       <module name="Python_DataStruc-Algo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BrickWall/brick_wall.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sort_characters_by_frequency" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SortCharactersByFrequency" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_DataStruc-Algo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SortCharactersByFrequency/sort_characters_by_frequency.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="trapping_rain_water" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TrappingRainWater" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_DataStruc-Algo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TrappingRainWater/trapping_rain_water.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -496,19 +499,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.remove_invalid_parentheses" />
-      <item index="1" class="java.lang.String" itemvalue="Python.meeting_rooms" />
-      <item index="2" class="java.lang.String" itemvalue="Python.sparse_matrix_multiplication" />
-      <item index="3" class="java.lang.String" itemvalue="Python.daily_temperatures" />
-      <item index="4" class="java.lang.String" itemvalue="Python.brick_wall" />
+      <item index="0" class="java.lang.String" itemvalue="Python.sparse_matrix_multiplication" />
+      <item index="1" class="java.lang.String" itemvalue="Python.daily_temperatures" />
+      <item index="2" class="java.lang.String" itemvalue="Python.brick_wall" />
+      <item index="3" class="java.lang.String" itemvalue="Python.sort_characters_by_frequency" />
+      <item index="4" class="java.lang.String" itemvalue="Python.trapping_rain_water" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.brick_wall" />
-        <item index="1" class="java.lang.String" itemvalue="Python.daily_temperatures" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sparse_matrix_multiplication" />
-        <item index="3" class="java.lang.String" itemvalue="Python.meeting_rooms" />
-        <item index="4" class="java.lang.String" itemvalue="Python.remove_invalid_parentheses" />
+        <item index="0" class="java.lang.String" itemvalue="Python.trapping_rain_water" />
+        <item index="1" class="java.lang.String" itemvalue="Python.sort_characters_by_frequency" />
+        <item index="2" class="java.lang.String" itemvalue="Python.brick_wall" />
+        <item index="3" class="java.lang.String" itemvalue="Python.daily_temperatures" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sparse_matrix_multiplication" />
       </list>
     </recent_temporary>
   </component>
@@ -568,6 +571,11 @@
           <line>48</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TrappingRainWater/trapping_rain_water.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -576,7 +584,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="24" />
+      <option name="time" value="25" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -857,6 +865,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ValidAnagram/valid_anagram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="69" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SortCharactersByFrequency/sort_characters_by_frequency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TrappingRainWater/trapping_rain_water.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -871,8 +903,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
             <folding />
           </first_editor>
           <second_editor />
