@@ -10,6 +10,7 @@ If any part is obscure or any bug is found, feel free to email me directly: __**
 * (0200). Number of Islands **_Union Find_**
 * (0234). Palindrome Linked List **_Fast Slow Pointer_**
 * (0261). Graph Valid Tree **_Union Find_**
+* (0301). Remove Invalid Parentheses **_BFS_**
 * (0305). Number of Islands II, **_Union Find_**
 * (0461). Hamming Distance **_Xor_**
 * (0582). Kill Process **_BFS, Hash_**
