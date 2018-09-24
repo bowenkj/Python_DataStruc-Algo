@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16a3cd90-a97f-4058-9737-615509f52e13" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyTemperatures/daily_temperatures.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SparseMatrixMultiplication/sparse_matrix_multiplication.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BrickWall/brick_wall.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -19,6 +18,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$minimum_spanning_tree.coverage" NAME="minimum_spanning_tree Coverage Results" MODIFIED="1537554876106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MinimumSpanningTree/minimum_spanning_tree" />
+    <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$brick_wall.coverage" NAME="brick_wall Coverage Results" MODIFIED="1537821524181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BrickWall" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$two_sum.coverage" NAME="two_sum Coverage Results" MODIFIED="1537681187797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TwoSum" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$meeting_rooms.coverage" NAME="meeting_rooms Coverage Results" MODIFIED="1537768235795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MeetingRooms" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$daily_temperatures.coverage" NAME="daily_temperatures Coverage Results" MODIFIED="1537819768721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DailyTemperatures" />
@@ -57,8 +57,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="270">
-                <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <first_editor relative-caret-position="330">
+                <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -66,81 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="daily_temperatures.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DailyTemperatures/daily_temperatures.py">
+      <file leaf-file-name="brick_wall.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BrickWall/brick_wall.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="meeting_rooms.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MeetingRooms/meeting_rooms.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kill_process.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KillProcess/kill_process.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="valid_parentheses.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ValidParentheses/valid_parentheses.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="remove_invalid_parentheses.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RemoveInvalidParentheses/remove_invalid_parentheses.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LRU_cache.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LRUCache/LRU_cache.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1173">
-              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="without_hash_O(1)_space.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CopyListWithRandomPointer/without_hash_O(1)_space.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="two_sum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TwoSum/two_sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+              <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -182,6 +112,7 @@
         <option value="$PROJECT_DIR$/MeetingRooms/meeting_rooms.py" />
         <option value="$PROJECT_DIR$/SparseMatrixMultiplication/sparse_matrix_multiplication.py" />
         <option value="$PROJECT_DIR$/DailyTemperatures/daily_temperatures.py" />
+        <option value="$PROJECT_DIR$/BrickWall/brick_wall.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -241,20 +172,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python_DataStruc-Algo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python_DataStruc-Algo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DailyTemperatures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -274,25 +191,7 @@
       <recent name="$PROJECT_DIR$/PalindromeLinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.daily_temperatures">
-    <configuration default="false" name="LRU_cache" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LRUCache" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_DataStruc-Algo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LRUCache/LRU_cache.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.brick_wall">
     <configuration default="false" name="remove_invalid_parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -361,6 +260,24 @@
       <module name="Python_DataStruc-Algo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DailyTemperatures/daily_temperatures.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="brick_wall" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BrickWall" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_DataStruc-Algo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BrickWall/brick_wall.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -574,19 +491,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.LRU_cache" />
-      <item index="1" class="java.lang.String" itemvalue="Python.remove_invalid_parentheses" />
-      <item index="2" class="java.lang.String" itemvalue="Python.meeting_rooms" />
-      <item index="3" class="java.lang.String" itemvalue="Python.sparse_matrix_multiplication" />
-      <item index="4" class="java.lang.String" itemvalue="Python.daily_temperatures" />
+      <item index="0" class="java.lang.String" itemvalue="Python.remove_invalid_parentheses" />
+      <item index="1" class="java.lang.String" itemvalue="Python.meeting_rooms" />
+      <item index="2" class="java.lang.String" itemvalue="Python.sparse_matrix_multiplication" />
+      <item index="3" class="java.lang.String" itemvalue="Python.daily_temperatures" />
+      <item index="4" class="java.lang.String" itemvalue="Python.brick_wall" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.daily_temperatures" />
-        <item index="1" class="java.lang.String" itemvalue="Python.sparse_matrix_multiplication" />
-        <item index="2" class="java.lang.String" itemvalue="Python.meeting_rooms" />
-        <item index="3" class="java.lang.String" itemvalue="Python.remove_invalid_parentheses" />
-        <item index="4" class="java.lang.String" itemvalue="Python.LRU_cache" />
+        <item index="0" class="java.lang.String" itemvalue="Python.brick_wall" />
+        <item index="1" class="java.lang.String" itemvalue="Python.daily_temperatures" />
+        <item index="2" class="java.lang.String" itemvalue="Python.sparse_matrix_multiplication" />
+        <item index="3" class="java.lang.String" itemvalue="Python.meeting_rooms" />
+        <item index="4" class="java.lang.String" itemvalue="Python.remove_invalid_parentheses" />
       </list>
     </recent_temporary>
   </component>
@@ -654,7 +571,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="23" />
+      <option name="time" value="24" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -919,6 +836,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BrickWall/brick_wall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -933,8 +858,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <first_editor relative-caret-position="330">
+            <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
             <folding />
           </first_editor>
           <second_editor />
