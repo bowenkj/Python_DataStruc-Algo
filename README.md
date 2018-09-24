@@ -13,9 +13,11 @@ If any part is obscure or any bug is found, feel free to email me directly: __**
 * (0261). Graph Valid Tree **_Union Find_**
 * (0301). Remove Invalid Parentheses **_BFS_**
 * (0305). Number of Islands II, **_Union Find_**
+* (0311). Sparse Matrix Multiplication **_Hash_**
 * (0461). Hamming Distance **_Xor_**
 * (0582). Kill Process **_BFS, Hash_**
 * (0721). Accounts Merge **_Union Find, Inverted index_**
+* (0739). Daily Temperatures **_Stack_**
 
 ## Lintcode
 * (0589). Connecting Graph **_Union Find_**
