@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16a3cd90-a97f-4058-9737-615509f52e13" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RemoveInvalidParentheses/remove_invalid_parentheses.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MeetingRooms/meeting_rooms.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -26,6 +26,7 @@
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$accounts_merge.coverage" NAME="accounts_merge Coverage Results" MODIFIED="1537665705724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Accounts Merge" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$two_sum.coverage" NAME="two_sum Coverage Results" MODIFIED="1537681187797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TwoSum" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$LRU_cache.coverage" NAME="LRU_cache Coverage Results" MODIFIED="1537736530771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LRUCache" />
+    <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$meeting_rooms.coverage" NAME="meeting_rooms Coverage Results" MODIFIED="1537768235795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MeetingRooms" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$minimum_window_substring.coverage" NAME="minimum_window_substring Coverage Results" MODIFIED="1537675196034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Minimum Window Substring" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$hamming_distance.coverage" NAME="hamming_distance Coverage Results" MODIFIED="1537678825759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HammingDistance" />
   </component>
@@ -53,11 +54,21 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+              <first_editor relative-caret-position="135">
+                <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="meeting_rooms.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MeetingRooms/meeting_rooms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -142,16 +153,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="minimum_window_substring.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MinimumWindowSubstring/minimum_window_substring.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -185,6 +186,7 @@
         <option value="$PROJECT_DIR$/ValidParentheses/valid_parentheses.py" />
         <option value="$PROJECT_DIR$/KillProcess/kill_process.py" />
         <option value="$PROJECT_DIR$/RemoveInvalidParentheses/remove_invalid_parentheses.py" />
+        <option value="$PROJECT_DIR$/MeetingRooms/meeting_rooms.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -263,25 +265,7 @@
       <recent name="$PROJECT_DIR$/PalindromeLinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.remove_invalid_parentheses">
-    <configuration default="false" name="hamming_distance" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HammingDistance" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_DataStruc-Algo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HammingDistance/hamming_distance.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.meeting_rooms">
     <configuration default="false" name="two_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -350,6 +334,24 @@
       <module name="Python_DataStruc-Algo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RemoveInvalidParentheses/remove_invalid_parentheses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="meeting_rooms" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MeetingRooms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_DataStruc-Algo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MeetingRooms/meeting_rooms.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -563,19 +565,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.hamming_distance" />
-      <item index="1" class="java.lang.String" itemvalue="Python.two_sum" />
-      <item index="2" class="java.lang.String" itemvalue="Python.copy_list_with_random_pointer" />
-      <item index="3" class="java.lang.String" itemvalue="Python.LRU_cache" />
-      <item index="4" class="java.lang.String" itemvalue="Python.remove_invalid_parentheses" />
+      <item index="0" class="java.lang.String" itemvalue="Python.two_sum" />
+      <item index="1" class="java.lang.String" itemvalue="Python.copy_list_with_random_pointer" />
+      <item index="2" class="java.lang.String" itemvalue="Python.LRU_cache" />
+      <item index="3" class="java.lang.String" itemvalue="Python.remove_invalid_parentheses" />
+      <item index="4" class="java.lang.String" itemvalue="Python.meeting_rooms" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.remove_invalid_parentheses" />
-        <item index="1" class="java.lang.String" itemvalue="Python.LRU_cache" />
-        <item index="2" class="java.lang.String" itemvalue="Python.copy_list_with_random_pointer" />
-        <item index="3" class="java.lang.String" itemvalue="Python.two_sum" />
-        <item index="4" class="java.lang.String" itemvalue="Python.hamming_distance" />
+        <item index="0" class="java.lang.String" itemvalue="Python.meeting_rooms" />
+        <item index="1" class="java.lang.String" itemvalue="Python.remove_invalid_parentheses" />
+        <item index="2" class="java.lang.String" itemvalue="Python.LRU_cache" />
+        <item index="3" class="java.lang.String" itemvalue="Python.copy_list_with_random_pointer" />
+        <item index="4" class="java.lang.String" itemvalue="Python.two_sum" />
       </list>
     </recent_temporary>
   </component>
@@ -884,6 +886,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MeetingRooms/meeting_rooms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -898,8 +908,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <first_editor relative-caret-position="135">
+            <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
             <folding />
           </first_editor>
           <second_editor />

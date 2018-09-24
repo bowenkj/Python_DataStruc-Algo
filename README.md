@@ -9,6 +9,7 @@ If any part is obscure or any bug is found, feel free to email me directly: __**
 * (0146). LRU Cache **_Double Linked List, Hash_**
 * (0200). Number of Islands **_Union Find_**
 * (0234). Palindrome Linked List **_Fast Slow Pointer_**
+* (0253). Meeting Rooms II **_Time Arrangement_**
 * (0261). Graph Valid Tree **_Union Find_**
 * (0301). Remove Invalid Parentheses **_BFS_**
 * (0305). Number of Islands II, **_Union Find_**
