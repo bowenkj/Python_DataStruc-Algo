@@ -18,10 +18,7 @@ class Solution(object):
         return self.visited[s] if self.visited[s] != False else []
 
     def wordBreakHelper(self, s):
-        if s == "":
-            return
-
-        if s in self.visited:
+        if s == "" or s in self.visited:
             return
 
         found = False
@@ -44,7 +41,7 @@ class Solution(object):
             self.visited[s] = False
 
 
-s = "catsandog"
-wordDict = ["cats", "dog", "sand", "and", "cat"]
+s = "catsanddog"
+wordDict = ["cat", "cats", "and", "sand", "dog"]
 S = Solution()
 print S.wordBreak(s, wordDict)
