@@ -8,6 +8,8 @@ If any part is obscure or any bug is found, feel free to email me directly: __**
 * (0076). Minimum Window Substring **_Two Pointers_**
 * (0121). Best Time to Buy and Sell Stock **_DP_**
 * (0138). Copy List with Random Pointer **_Hash, O(1) Space_**
+* (0139). Word Break **_DP_**
+* (0140). Word Break II **_DP_**
 * (0146). LRU Cache **_Double Linked List, Hash_**
 * (0200). Number of Islands **_Union Find_**
 * (0234). Palindrome Linked List **_Fast Slow Pointer_**
