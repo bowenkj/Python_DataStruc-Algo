@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16a3cd90-a97f-4058-9737-615509f52e13" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Google OA/BalancedPartition.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Google OA/MinimumNumberDesendingSequence.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/shortest_valid_pangram.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Google OA/StoreAndHouse.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Roman_To_Integer/roman_to_integer.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="Python_DataStruc-Algo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,6 +30,7 @@
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$hamming_distance.coverage" NAME="hamming_distance Coverage Results" MODIFIED="1537678825759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HammingDistance" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$connecting_graph_ii.coverage" NAME="connecting_graph_ii Coverage Results" MODIFIED="1537557080586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ConnectingGraphII" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$connecting_graph_iii.coverage" NAME="connecting_graph_iii Coverage Results" MODIFIED="1537557883443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ConnectingGraphIII" />
+    <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$StoreAndHouse.coverage" NAME="StoreAndHouse Coverage Results" MODIFIED="1538070253787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google OA" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$copy_list_with_random_pointer.coverage" NAME="copy_list_with_random_pointer Coverage Results" MODIFIED="1537712998123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CopyListWithRandomPointer" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$remove_invalid_parentheses.coverage" NAME="remove_invalid_parentheses Coverage Results" MODIFIED="1537766089162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RemoveInvalidParentheses" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$number_of_islands.coverage" NAME="number_of_islands Coverage Results" MODIFIED="1537561160978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NumberOfIslands" />
@@ -37,6 +40,7 @@
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$LRU_cache.coverage" NAME="LRU_cache Coverage Results" MODIFIED="1537736530771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LRUCache" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$sparse_matrix_multiplication.coverage" NAME="sparse_matrix_multiplication Coverage Results" MODIFIED="1537809120694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SparseMatrixMultiplication" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$findpeakelement.coverage" NAME="findpeakelement Coverage Results" MODIFIED="1538022137601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FindPeakElement" />
+    <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$shortest_valid_pangram.coverage" NAME="shortest_valid_pangram Coverage Results" MODIFIED="1538073297448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Facebook" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$trapping_rain_water.coverage" NAME="trapping_rain_water Coverage Results" MODIFIED="1537831844265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TrappingRainWater" />
     <SUITE FILE_PATH="coverage/Python_DataStruc-Algo$word_break.coverage" NAME="word_break Coverage Results" MODIFIED="1537911415768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WordBreak" />
   </component>
@@ -93,9 +97,12 @@
         <option value="$PROJECT_DIR$/WordBreak/word_break_ii.py" />
         <option value="$PROJECT_DIR$/NestedListWeightSum/nested_list_weight_sum.py" />
         <option value="$PROJECT_DIR$/FindPeakElement/findpeakelement.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Google OA/MinimumNumberDesendingSequence.py" />
         <option value="$PROJECT_DIR$/Google OA/BalancedPartition.py" />
+        <option value="$PROJECT_DIR$/Google OA/StoreAndHouse.py" />
+        <option value="$PROJECT_DIR$/Facebook/shortest_valid_pangram.py" />
+        <option value="$PROJECT_DIR$/Roman_To_Integer/roman_to_integer.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -156,20 +163,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python_DataStruc-Algo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python_DataStruc-Algo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Google OA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -187,43 +180,7 @@
       <recent name="$PROJECT_DIR$/PalindromeLinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BalancedPartition">
-    <configuration default="false" name="word_break" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WordBreak" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_DataStruc-Algo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WordBreak/word_break.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="word_break_ii" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WordBreak" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_DataStruc-Algo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WordBreak/word_break_ii.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.shortest_valid_pangram">
     <configuration default="false" name="findpeakelement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,6 +231,42 @@
       <module name="Python_DataStruc-Algo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Google OA/BalancedPartition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="StoreAndHouse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Google OA" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_DataStruc-Algo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Google OA/StoreAndHouse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="shortest_valid_pangram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Facebook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_DataStruc-Algo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Facebook/shortest_valid_pangram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -487,19 +480,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.word_break" />
-      <item index="1" class="java.lang.String" itemvalue="Python.word_break_ii" />
-      <item index="2" class="java.lang.String" itemvalue="Python.findpeakelement" />
-      <item index="3" class="java.lang.String" itemvalue="Python.MinimumNumberDesendingSequence" />
-      <item index="4" class="java.lang.String" itemvalue="Python.BalancedPartition" />
+      <item index="0" class="java.lang.String" itemvalue="Python.findpeakelement" />
+      <item index="1" class="java.lang.String" itemvalue="Python.MinimumNumberDesendingSequence" />
+      <item index="2" class="java.lang.String" itemvalue="Python.BalancedPartition" />
+      <item index="3" class="java.lang.String" itemvalue="Python.StoreAndHouse" />
+      <item index="4" class="java.lang.String" itemvalue="Python.shortest_valid_pangram" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.BalancedPartition" />
-        <item index="1" class="java.lang.String" itemvalue="Python.MinimumNumberDesendingSequence" />
-        <item index="2" class="java.lang.String" itemvalue="Python.findpeakelement" />
-        <item index="3" class="java.lang.String" itemvalue="Python.word_break_ii" />
-        <item index="4" class="java.lang.String" itemvalue="Python.word_break" />
+        <item index="0" class="java.lang.String" itemvalue="Python.shortest_valid_pangram" />
+        <item index="1" class="java.lang.String" itemvalue="Python.StoreAndHouse" />
+        <item index="2" class="java.lang.String" itemvalue="Python.BalancedPartition" />
+        <item index="3" class="java.lang.String" itemvalue="Python.MinimumNumberDesendingSequence" />
+        <item index="4" class="java.lang.String" itemvalue="Python.findpeakelement" />
       </list>
     </recent_temporary>
   </component>
@@ -572,7 +565,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="31" />
+      <option name="time" value="32" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -951,11 +944,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/FindPeakElement/findpeakelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google OA/BalancedPartition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google OA/StoreAndHouse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/shortest_valid_pangram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2">
-            <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
             <folding />
           </first_editor>
           <second_editor />
@@ -973,18 +998,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FindPeakElement/findpeakelement.py">
+    <entry file="file://$PROJECT_DIR$/Roman_To_Integer/roman_to_integer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Google OA/BalancedPartition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        <state relative-caret-position="342">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
           <folding />
         </state>
       </provider>

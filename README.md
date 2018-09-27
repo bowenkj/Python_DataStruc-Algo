@@ -3,6 +3,7 @@ If any part is obscure or any bug is found, feel free to email me directly: __**
 
 ## Leetcode
 * (0001). Two Sum **_Hash_**
+* (0013). Roman to Integer **_Hash_**
 * (0020). Valid Parentheses **_Heap_**
 * (0042). Trapping Water **_Two Pointers_**
 * (0076). Minimum Window Substring **_Two Pointers_**
