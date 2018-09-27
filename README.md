@@ -11,6 +11,7 @@ If any part is obscure or any bug is found, feel free to email me directly: __**
 * (0139). Word Break **_DP_**
 * (0140). Word Break II **_DP_**
 * (0146). LRU Cache **_Double Linked List, Hash_**
+* (0162). Find Peak Element **_Binary Search_**
 * (0200). Number of Islands **_Union Find_**
 * (0234). Palindrome Linked List **_Fast Slow Pointer_**
 * (0242). Valid Anagram **_Hash_**
@@ -19,6 +20,7 @@ If any part is obscure or any bug is found, feel free to email me directly: __**
 * (0301). Remove Invalid Parentheses **_BFS_**
 * (0305). Number of Islands II, **_Union Find_**
 * (0311). Sparse Matrix Multiplication **_Hash_**
+* (0339). Nested List Weight Sum **_Recursive_**
 * (0451). Sort Characters By Frequency **_Hash_**
 * (0461). Hamming Distance **_Xor_**
 * (0554). Brick Wall **_Hash_**
